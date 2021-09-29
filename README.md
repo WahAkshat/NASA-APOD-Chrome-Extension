@@ -1,6 +1,9 @@
 # NASA-APOD-Chrome-Extension
 Here I have made use of one of the most popular websites at NASA that is the Astronomy Picture of the Day. In fact, this website is one of the most popular websites across all federal agencies. It has the popular appeal of a Justin Bieber video. This endpoint structures the APOD imagery and associated metadata so that it can be repurposed for other applications. In addition, if the concept_tags parameter is set to True, then keywords derived from the image explanation are returned. These keywords could be used as auto-generated hashtags for twitter or instagram feeds; but generally help with discoverability of relevant imagery.
 
+<img src="op1.png"><br>
+<img src="op2.png">
+
 P.S. I have not published it, since 5 Dollars were required :D
 
 <h1>About the API</h1>
@@ -14,7 +17,7 @@ concept_tags are now disabled in this service. Also, an optional return paramete
   
  
 <h2>Example Imagery</h2>
-<a href="example-nasa.png">Image Example</a>
+<img src="example-nasa.png">
 
 <h2>Query Parameters</h2>
 Parameter	Type	Default	Description
