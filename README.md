@@ -28,3 +28,5 @@ api_key	string	DEMO_KEY	api.nasa.gov key for expanded usage
 
 <h2>Example Query</h2>
 https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY
+
+Use your own API_KEY!
