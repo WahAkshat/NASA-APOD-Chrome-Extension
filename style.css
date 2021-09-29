@@ -1,0 +1,23 @@
+
+body {
+    
+    width: 400px;    
+    height: 400px;
+    background-color: rgb(19, 71, 124); 
+    display: flex;
+    justify-content: center;
+}
+
+h2{
+    color:darkred;
+}
+
+p{    
+    display: inner-flex;
+    margin: auto 10px; 
+    font-size: 22px;
+    color: rgb(182, 214, 122);
+    border-radius: 6px; 
+    border: 1px solid lightblue;
+    padding: 10px;
+}
