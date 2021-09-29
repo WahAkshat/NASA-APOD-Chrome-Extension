@@ -14,7 +14,7 @@ concept_tags are now disabled in this service. Also, an optional return paramete
   
  
 <h2>Example Imagery</h2>
-<img src="example-nasa.png">Image Example</img>
+<img src="example-nasa.png">
 
 <h2>Query Parameters</h2>
 Parameter	Type	Default	Description
